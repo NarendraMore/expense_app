@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "expense@gmail.com",
+      "password": "Expense@123"
+    }
+  ],
+  "expenses": [
+    {
+      "id": "662251a7-02b2-4fe4-9f0b-4a0320342a0d",
+      "name": "Narendra More",
+      "amount": 20000,
+      "date": "2024-09-20",
+      "category": "Food"
+    }
+  ]
+}
